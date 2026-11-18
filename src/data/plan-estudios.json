@@ -1,0 +1,636 @@
+{
+  "universidad": "Universidad Nacional Amazónica de Madre de Dios",
+  "facultad": "Educación",
+  "carrera": "Derecho y Ciencias Políticas",
+  "fuente": "DC2017.pdf (plan de estudios)",
+  "nota": "Transcrito del PDF; verificar códigos dudosos (p. ej. DP119, DP113) con el plan oficial.",
+  "ciclos": [
+    {
+      "ciclo": 1,
+      "cursos": [
+        {
+          "codigo": "CB101",
+          "nombre": "Matemática Básica",
+          "creditos": 4,
+          "requisito": "Ninguno"
+        },
+        {
+          "codigo": "DP101",
+          "nombre": "Cultura de Paz y Seguridad Nacional",
+          "creditos": 3,
+          "requisito": "Ninguno"
+        },
+        {
+          "codigo": "DP102",
+          "nombre": "Introducción al Derecho",
+          "creditos": 3,
+          "requisito": "Ninguno"
+        },
+        {
+          "codigo": "ET103",
+          "nombre": "Inglés Básico",
+          "creditos": 2,
+          "requisito": "Ninguno"
+        },
+        {
+          "codigo": "EU101",
+          "nombre": "Lenguaje y Comunicación",
+          "creditos": 3,
+          "requisito": "Ninguno"
+        },
+        {
+          "codigo": "EU103",
+          "nombre": "Filosofía y Lógica",
+          "creditos": 3,
+          "requisito": "Ninguno"
+        },
+        {
+          "codigo": "EU105",
+          "nombre": "Metodología del Trabajo Universitario",
+          "creditos": 3,
+          "requisito": "Ninguno"
+        },
+        {
+          "codigo": "EU106",
+          "nombre": "Actividades Culturales y Deportivos",
+          "creditos": 1,
+          "requisito": "Ninguno"
+        }
+      ]
+    },
+    {
+      "ciclo": 2,
+      "cursos": [
+        {
+          "codigo": "CB104",
+          "nombre": "Ecología General y Recursos Naturales",
+          "creditos": 2,
+          "requisito": "Ninguno"
+        },
+        {
+          "codigo": "DP103",
+          "nombre": "Introducción a las Ciencias Políticas",
+          "creditos": 2,
+          "requisito": "EU103"
+        },
+        {
+          "codigo": "DP104",
+          "nombre": "Derecho Penal General",
+          "creditos": 4,
+          "requisito": "DP102"
+        },
+        {
+          "codigo": "DP105",
+          "nombre": "Derecho Civil I (Personas)",
+          "creditos": 4,
+          "requisito": "DP102"
+        },
+        {
+          "codigo": "DP106",
+          "nombre": "Derecho Constitucional y Teoría del Estado",
+          "creditos": 3,
+          "requisito": "DP101"
+        },
+        {
+          "codigo": "ET101",
+          "nombre": "Sociología Rural y Amazónica",
+          "creditos": 2,
+          "requisito": "Ninguno"
+        },
+        {
+          "codigo": "EU102",
+          "nombre": "Redacción Técnica y Científica",
+          "creditos": 3,
+          "requisito": "EU101"
+        },
+        {
+          "codigo": "EU104",
+          "nombre": "Psicología General",
+          "creditos": 3,
+          "requisito": "EU103"
+        }
+      ]
+    },
+    {
+      "ciclo": 3,
+      "cursos": [
+        {
+          "codigo": "CA101",
+          "nombre": "Economía General",
+          "creditos": 3,
+          "requisito": "CB101"
+        },
+        {
+          "codigo": "DP201",
+          "nombre": "Ciencia Política",
+          "creditos": 2,
+          "requisito": "DP103"
+        },
+        {
+          "codigo": "DP202",
+          "nombre": "Derecho Comercial I (Parte General)",
+          "creditos": 3,
+          "requisito": "DP106"
+        },
+        {
+          "codigo": "DP203",
+          "nombre": "Derecho Penal I",
+          "creditos": 4,
+          "requisito": "DP104"
+        },
+        {
+          "codigo": "DP204",
+          "nombre": "Derecho Civil II (Acto Jurídico)",
+          "creditos": 4,
+          "requisito": "DP105"
+        },
+        {
+          "codigo": "DP205",
+          "nombre": "Derecho Constitucional Peruano",
+          "creditos": 3,
+          "requisito": "DP106"
+        },
+        {
+          "codigo": "DP206",
+          "nombre": "Teoría General del Proceso",
+          "creditos": 2,
+          "requisito": "DP106"
+        },
+        {
+          "codigo": "DP207",
+          "nombre": "Historia General del Derecho",
+          "creditos": 2,
+          "requisito": "DP101"
+        }
+      ]
+    },
+    {
+      "ciclo": 4,
+      "cursos": [
+        {
+          "codigo": "CB203",
+          "nombre": "Estadística",
+          "creditos": 3,
+          "requisito": "CB104"
+        },
+        {
+          "codigo": "DP208",
+          "nombre": "Historia de las Ideas Políticas",
+          "creditos": 2,
+          "requisito": "DP201"
+        },
+        {
+          "codigo": "DP209",
+          "nombre": "Derecho Comercial II (Societario)",
+          "creditos": 3,
+          "requisito": "DP201"
+        },
+        {
+          "codigo": "DP210",
+          "nombre": "Derecho Penal II",
+          "creditos": 4,
+          "requisito": "DP203"
+        },
+        {
+          "codigo": "DP211",
+          "nombre": "Derecho Civil III (Familia)",
+          "creditos": 4,
+          "requisito": "DP204"
+        },
+        {
+          "codigo": "DP212",
+          "nombre": "Derecho Procesal Constitucional",
+          "creditos": 3,
+          "requisito": "DP205"
+        },
+        {
+          "codigo": "DP213",
+          "nombre": "Derecho Ambiental I",
+          "creditos": 2,
+          "requisito": "CB104"
+        },
+        {
+          "codigo": "DP214",
+          "nombre": "Bases Romanísticas del Derecho Civil",
+          "creditos": 2,
+          "requisito": "DP206"
+        }
+      ]
+    },
+    {
+      "ciclo": 5,
+      "cursos": [
+        {
+          "codigo": "ELEC-I",
+          "nombre": "Electivo I",
+          "creditos": 2,
+          "requisito": "80 créditos aprobados"
+        },
+        {
+          "codigo": "DP301",
+          "nombre": "Teorías Políticas",
+          "creditos": 2,
+          "requisito": "DP208"
+        },
+        {
+          "codigo": "DP302",
+          "nombre": "Derecho Comercial III (Títulos Valores)",
+          "creditos": 3,
+          "requisito": "DP209"
+        },
+        {
+          "codigo": "DP303",
+          "nombre": "Derecho Penal III",
+          "creditos": 4,
+          "requisito": "DP210"
+        },
+        {
+          "codigo": "DP304",
+          "nombre": "Derecho Civil IV (Sucesiones)",
+          "creditos": 4,
+          "requisito": "DP211"
+        },
+        {
+          "codigo": "DP305",
+          "nombre": "Derecho Administrativo I (Parte General)",
+          "creditos": 3,
+          "requisito": "DP212"
+        },
+        {
+          "codigo": "DP306",
+          "nombre": "Derecho Ambiental II",
+          "creditos": 2,
+          "requisito": "DP213"
+        },
+        {
+          "codigo": "DP307",
+          "nombre": "Derechos Humanos y Derecho Comunitario",
+          "creditos": 2,
+          "requisito": "DP214"
+        }
+      ]
+    },
+    {
+      "ciclo": 6,
+      "cursos": [
+        {
+          "codigo": "DP308",
+          "nombre": "Derecho Electoral",
+          "creditos": 2,
+          "requisito": "DP301"
+        },
+        {
+          "codigo": "DP309",
+          "nombre": "Derecho Procesal Civil I (Procesos: Conocimiento y Abreviado)",
+          "creditos": 3,
+          "requisito": "DP302"
+        },
+        {
+          "codigo": "DP310",
+          "nombre": "Derecho Procesal Penal I",
+          "creditos": 3,
+          "requisito": "DP303"
+        },
+        {
+          "codigo": "DP311",
+          "nombre": "Derecho Civil V (Reales)",
+          "creditos": 4,
+          "requisito": "DP304"
+        },
+        {
+          "codigo": "DP312",
+          "nombre": "Derecho Administrativo II (Procedimiento)",
+          "creditos": 3,
+          "requisito": "DP305"
+        },
+        {
+          "codigo": "DP313",
+          "nombre": "Derecho Laboral I (Parte General y Derecho Laboral Individual)",
+          "creditos": 3,
+          "requisito": "DP305"
+        },
+        {
+          "codigo": "DP314",
+          "nombre": "Derecho Penitenciario",
+          "creditos": 2,
+          "requisito": "DP303"
+        },
+        {
+          "codigo": "DP316",
+          "nombre": "Electivo II: Derecho de los Seguros",
+          "creditos": 2,
+          "requisito": "113 créditos aprobados"
+        }
+      ]
+    },
+    {
+      "ciclo": 7,
+      "cursos": [
+        {
+          "codigo": "DP315",
+          "nombre": "Electivo III: Legislación de Informática Jurídica",
+          "creditos": 2,
+          "requisito": "120 créditos aprobados"
+        },
+        {
+          "codigo": "DP401",
+          "nombre": "Gobiernos Locales y Regionales",
+          "creditos": 2,
+          "requisito": "DP308"
+        },
+        {
+          "codigo": "DP402",
+          "nombre": "Derecho Procesal Civil II (Procesos: Sumarísimo y Ejecutivo)",
+          "creditos": 3,
+          "requisito": "DP309"
+        },
+        {
+          "codigo": "DP403",
+          "nombre": "Derecho Procesal Penal II",
+          "creditos": 3,
+          "requisito": "DP310"
+        },
+        {
+          "codigo": "DP404",
+          "nombre": "Derecho Civil VI (Obligaciones)",
+          "creditos": 4,
+          "requisito": "DP311"
+        },
+        {
+          "codigo": "DP405",
+          "nombre": "Derecho Procesal Administrativo",
+          "creditos": 3,
+          "requisito": "DP305"
+        },
+        {
+          "codigo": "DP406",
+          "nombre": "Derecho Laboral II (D. Colectivo y Derecho Previsional)",
+          "creditos": 3,
+          "requisito": "DP313"
+        },
+        {
+          "codigo": "DP407",
+          "nombre": "Derecho Internacional Público",
+          "creditos": 2,
+          "requisito": "DP312"
+        }
+      ]
+    },
+    {
+      "ciclo": 8,
+      "cursos": [
+        {
+          "codigo": "DP408",
+          "nombre": "Filosofía del Derecho",
+          "creditos": 2,
+          "requisito": "DP301"
+        },
+        {
+          "codigo": "DP409",
+          "nombre": "Derecho Procesal Civil III (Cautelar y No Contencioso)",
+          "creditos": 3,
+          "requisito": "DP402"
+        },
+        {
+          "codigo": "DP410",
+          "nombre": "Derecho Procesal Penal III",
+          "creditos": 3,
+          "requisito": "DP403"
+        },
+        {
+          "codigo": "DP411",
+          "nombre": "Derecho Civil VII (Contratos)",
+          "creditos": 4,
+          "requisito": "DP404"
+        },
+        {
+          "codigo": "DP412",
+          "nombre": "Derecho Tributario I (Parte General)",
+          "creditos": 3,
+          "requisito": "DP405"
+        },
+        {
+          "codigo": "DP413",
+          "nombre": "Derecho Procesal Laboral",
+          "creditos": 3,
+          "requisito": "DP406"
+        },
+        {
+          "codigo": "DP414",
+          "nombre": "Derecho Internacional Privado",
+          "creditos": 2,
+          "requisito": "DP407"
+        },
+        {
+          "codigo": "ELEC-IV",
+          "nombre": "Electivo IV",
+          "creditos": 2,
+          "requisito": "150 créditos aprobados"
+        }
+      ]
+    },
+    {
+      "ciclo": 9,
+      "cursos": [
+        {
+          "codigo": "DP113",
+          "nombre": "Electivo V: Psiquiatría Forense",
+          "creditos": 2,
+          "requisito": "150 créditos aprobados"
+        },
+        {
+          "codigo": "DP501",
+          "nombre": "Ciencias Forenses y Criminología",
+          "creditos": 2,
+          "requisito": "DP410"
+        },
+        {
+          "codigo": "DP502",
+          "nombre": "Derecho Financiero y Bancario",
+          "creditos": 2,
+          "requisito": "DP409"
+        },
+        {
+          "codigo": "DP503",
+          "nombre": "Derecho de Ejecución Penal",
+          "creditos": 3,
+          "requisito": "DP410"
+        },
+        {
+          "codigo": "DP504",
+          "nombre": "Derecho Civil VIII (Responsabilidad Civil)",
+          "creditos": 4,
+          "requisito": "DP411"
+        },
+        {
+          "codigo": "DP505",
+          "nombre": "Derecho Tributario II (Impuesto a la Renta)",
+          "creditos": 3,
+          "requisito": "DP412"
+        },
+        {
+          "codigo": "DP506",
+          "nombre": "Deontología Forense y Ética Profesional",
+          "creditos": 2,
+          "requisito": "DP408"
+        },
+        {
+          "codigo": "DP507",
+          "nombre": "Contrataciones con el Estado",
+          "creditos": 2,
+          "requisito": "DP409"
+        }
+      ]
+    },
+    {
+      "ciclo": 10,
+      "cursos": [
+        {
+          "codigo": "ELEC-VI",
+          "nombre": "Electivo VI",
+          "creditos": 2,
+          "requisito": "190 créditos aprobados"
+        },
+        {
+          "codigo": "DP508",
+          "nombre": "Medicina Legal",
+          "creditos": 3,
+          "requisito": "DP501"
+        },
+        {
+          "codigo": "DP509",
+          "nombre": "Negociación, Conciliación y Arbitraje",
+          "creditos": 2,
+          "requisito": "DP504"
+        },
+        {
+          "codigo": "DP510",
+          "nombre": "Derecho Penal Económico",
+          "creditos": 3,
+          "requisito": "DP503"
+        },
+        {
+          "codigo": "DP511",
+          "nombre": "Argumentación Jurídica",
+          "creditos": 3,
+          "requisito": "DP410"
+        },
+        {
+          "codigo": "DP512",
+          "nombre": "Derecho Tributario III (Imposición al Consumo y Tributación Municipal)",
+          "creditos": 3,
+          "requisito": "DP505"
+        },
+        {
+          "codigo": "DP513",
+          "nombre": "Metodología de la Investigación Jurídica",
+          "creditos": 3,
+          "requisito": "DP506"
+        },
+        {
+          "codigo": "DP514",
+          "nombre": "Prescripción y Caducidad",
+          "creditos": 4,
+          "requisito": "DP504"
+        }
+      ]
+    },
+    {
+      "ciclo": 11,
+      "cursos": [
+        {
+          "codigo": "DP119",
+          "nombre": "Electivo VII: Criminalística",
+          "creditos": 2,
+          "requisito": "220 créditos aprobados"
+        },
+        {
+          "codigo": "DP601",
+          "nombre": "Gestión Pública y Sistemas Administrativos",
+          "creditos": 2,
+          "requisito": "DP405"
+        },
+        {
+          "codigo": "DP602",
+          "nombre": "Derecho Registral y Notarial",
+          "creditos": 3,
+          "requisito": "DP504"
+        },
+        {
+          "codigo": "DP603",
+          "nombre": "Litigación Penal Oral",
+          "creditos": 2,
+          "requisito": "DP510"
+        },
+        {
+          "codigo": "DP604",
+          "nombre": "Análisis de Expedientes Judiciales",
+          "creditos": 2,
+          "requisito": "DP509"
+        },
+        {
+          "codigo": "DP605",
+          "nombre": "Seminario de Derecho Procesal Constitucional",
+          "creditos": 3,
+          "requisito": "DP504"
+        },
+        {
+          "codigo": "DP606",
+          "nombre": "Seminario de Tesis I",
+          "creditos": 3,
+          "requisito": "DP513"
+        },
+        {
+          "codigo": "DP607",
+          "nombre": "Derecho Minero e Hidrocarburos",
+          "creditos": 3,
+          "requisito": "DP504"
+        }
+      ]
+    }
+  ],
+  "electivos": [
+    {
+      "electivo": "I",
+      "codigo": "DP107",
+      "nombre": "Legislación Turística",
+      "creditos": 2
+    },
+    {
+      "electivo": "I",
+      "codigo": "DP108",
+      "nombre": "Legislación Forestal y Fauna Silvestre",
+      "creditos": 2
+    },
+    {
+      "electivo": "I",
+      "codigo": "SI617",
+      "nombre": "Computación e Informática",
+      "creditos": 2
+    },
+    {
+      "electivo": "IV",
+      "codigo": "DP415",
+      "nombre": "Legislación Agraria y Aguas",
+      "creditos": 2
+    },
+    {
+      "electivo": "IV",
+      "codigo": "DP416",
+      "nombre": "Derecho Genético",
+      "creditos": 2
+    },
+    {
+      "electivo": "VI",
+      "codigo": "DP117",
+      "nombre": "Indecopi y Organismos Reguladores",
+      "creditos": 2
+    },
+    {
+      "electivo": "VI",
+      "codigo": "DP118",
+      "nombre": "Derecho de Integración Jurídica",
+      "creditos": 2
+    }
+  ]
+}
